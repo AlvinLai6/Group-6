@@ -116,6 +116,8 @@ flowchart TB
 
   classDef root stroke:#0b5,stroke-width:2px,fill:#eaffea;
 ```
+# 使用案例圖
+![使用案例圖](FDD.png)
 
 ## 使用案例 1：上傳衣物建立智慧衣櫥
 **主要角色**：使用者（User）  
